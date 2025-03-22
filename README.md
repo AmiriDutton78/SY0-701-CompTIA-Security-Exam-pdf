@@ -1,7 +1,7 @@
 # SY0-701-CompTIA-Security-Exam-pdf
 
 
-## ** Mastering the SY0-701 CompTIA Security+ Certification with Certifiedumps**  
+## **Mastering the SY0-701 CompTIA Security+ Certification with Certifiedumps**  
 
 ### **Introduction**  
 The **SY0-701** is the latest version of the **CompTIA Security+** certification, designed for professionals looking to build a strong foundation in cybersecurity. This certification is globally recognized and essential for roles such as **Security Administrator, IT Auditor, and Network Security Engineer**. 
